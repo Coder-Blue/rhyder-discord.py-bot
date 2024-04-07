@@ -27,8 +27,13 @@
 
 - Và bạn hãy `cd` vào thư mục repository mà bạn đã clone và sử dụng lệnh sau:
 ```bash
+  pip install -r .\requirements.txt
+```
+
+```bash
   python bot.py
 ```
+
 ![BotScreenshot](https://github.com/Coder-Blue/rhyder-discord.py-bot/blob/main/screenshots/SC1.png?raw=true)
 
 - Nếu đã setup thành công thì lệnh trên thì sẽ xuất hiện màn hình sau:
